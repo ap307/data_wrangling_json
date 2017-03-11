@@ -1,4 +1,4 @@
-# Springboard Data Wranglign Excercise #1
+# Springboard Data Wrangling Excercise #1
 
 Solves challenge by producting three key outputs:
 
